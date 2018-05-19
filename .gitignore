@@ -1,0 +1,43 @@
+### OTHERS
+/dll/
+/lib/
+/SDL-2.0/
+
+### NETBEANS
+# https://github.com/github/gitignore/blob/master/Global/NetBeans.gitignore
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+### C++
+# https://github.com/github/gitignore/blob/master/C%2B%2B.gitignore
+# Prerequisites
+*.d
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+# Precompiled Headers
+*.gch
+*.pch
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+# Fortran module files
+*.mod
+*.smod
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
