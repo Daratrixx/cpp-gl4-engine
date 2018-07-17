@@ -1,16 +1,15 @@
 ### OTHERS
 /dll/
 /lib/
-/SDL-2.0/
 
 ### NETBEANS
 # https://github.com/github/gitignore/blob/master/Global/NetBeans.gitignore
-nbproject/private/
-build/
-nbbuild/
-dist/
-nbdist/
-.nb-gradle/
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
 
 ### C++
 # https://github.com/github/gitignore/blob/master/C%2B%2B.gitignore
